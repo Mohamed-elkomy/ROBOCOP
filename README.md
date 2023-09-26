@@ -23,12 +23,8 @@ The ROBOCOP project relies on open-source libraries and tools. You can find a li
 
 ## License
 
-This project is licensed under the MIT License. For more information, please see the [project's license](LICENSE).
+This project is licensed under the MIT License. For more information, please see the [GNU General Public License](LICENSE).
 
 ## Contact Us
 
-If you have any questions or suggestions regarding the ROBOCOP project, feel free to contact us via email at: your@email.com
-
----
-
-**Note:** Please modify this README file with specific information about your project and add sections such as "Installation and Usage" and "Contributing" according to your project's actual needs.
+If you have any questions or suggestions regarding the ROBOCOP project, feel free to contact us via email at: mhmedmjdy783@email.com
