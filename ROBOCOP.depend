@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1550311003 source:c:\users\youse\onedrive\desktop\amit\new folder\robocop\arminit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1550307435 c:\users\youse\onedrive\desktop\amit\new folder\robocop\definitions.h
+	"Macros.h"
+	"prototypes.h"
+
+1550313280 c:\users\youse\onedrive\desktop\amit\new folder\robocop\macros.h
+
+1550313394 c:\users\youse\onedrive\desktop\amit\new folder\robocop\prototypes.h
+
+1550311715 source:c:\users\youse\onedrive\desktop\amit\new folder\robocop\leginit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1550311503 source:c:\users\youse\onedrive\desktop\amit\new folder\robocop\robotinit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1550316294 source:c:\users\youse\onedrive\desktop\amit\new folder\robocop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1550311567 source:c:\users\youse\onedrive\desktop\amit\new folder\robocop\controllerinit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1550311003 source:c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\arminit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1583530782 c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\definitions.h
+	"Macros.h"
+	"prototypes.h"
+
+1550313280 c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\macros.h
+
+1583531803 c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\prototypes.h
+
+1550311715 source:c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\leginit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1550316316 source:c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\movements.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1583532141 source:c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\robotinit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1583531198 source:c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\controllerinit.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
+1583531936 source:c:\users\youse\onedrive\desktop\amit\amit\xyz\amit final material\c programming\workshop\4.robots\robocop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Definitions.h"
+
